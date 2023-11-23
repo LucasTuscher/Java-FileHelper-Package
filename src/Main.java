@@ -39,8 +39,7 @@ public class Main {
             System.out.println("Fehler beim Bearbeiten der Datei: " + e.getMessage());
         }
 
-
-        // Scanner (Eingabe in Java)
+        // Scanner
         Scanner scan = new Scanner(System.in);
 
         System.out.println("Hier kannst du etwas eingeben:");
