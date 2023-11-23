@@ -17,6 +17,7 @@ public class Main {
         // Neuen FileHelper testen
         String filePath = "example.txt";
         String content = "Hello, this is a test file content.";
+
         try {
             // Datei erstellen
             test1.createFile(filePath, content);
